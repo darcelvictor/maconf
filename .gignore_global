@@ -1,0 +1,16 @@
+# Ignore les fichiers de log
+*.log
+
+# Ignore les fichiers temporaires de macOS
+.DS_Store
+
+# Ignore les fichiers de sauvegarde créés par Vim
+*.swp
+
+# les fichiers vscode
+.vscode
+
+# les fichiers env
+.env
+
+.ssh
